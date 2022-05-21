@@ -143,3 +143,9 @@ If you have any project using this word-rnn, please let us know. I'll list up yo
 
 # Contribution
 Your comments (issues) and PRs are always welcome.
+
+
+
+> Anaconda Prompt (tensorflow1.1)
+%windir%\System32\cmd.exe "/K" C:\Users\iqbos\anaconda3\Scripts\activate.bat C:\Users\iqbos\anaconda3\envs\tensorflow1.1
+
