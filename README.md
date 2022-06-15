@@ -13,7 +13,10 @@ To train with default parameters on the tinyshakespeare corpus, run:
 ```bash
 python train.py
 ```
-
+To continue training after interruption or to run on more epochs
+```bash
+python train.py --init_from=save
+```
 To sample from a trained model
 ```bash
 python sample.py
